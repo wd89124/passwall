@@ -1,6 +1,4 @@
 [Rule]
-# 卷毛鼠
-DOMAIN-SUFFIX,jmsooo.com,PROXY
 
 # Bilibili
 DOMAIN-SUFFIX,cm.bilibili.com,REJECT
